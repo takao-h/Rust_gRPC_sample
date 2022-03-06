@@ -1,5 +1,5 @@
 [package]
-name = "sample_app"
+name = "helloworld-tonic"
 version = "0.1.0"
 edition = "2021"
 
